@@ -20,19 +20,17 @@
   <li>🤝 I'm open to collaborating on exciting and challenging projects</li>
 </ul>
 
-
-
-</ul>
-
 <h2 style="font-size: 28px; font-weight: bold;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
   Skills
 </h2>
 
+</br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,androidstudio,html,css,js,git,github,py,linux,windows,vscode,eclipse,sql" />
   </a>
 </p>
+</br>
 
 <h2 style="font-size: 28px; font-weight: bold;">Connect With Me 🤝</h2>
