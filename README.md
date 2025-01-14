@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm José Corrochano Pardo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2 style="font-size: 28px; font-weight: bold;">🤵 About Me</h2>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> 
   <img align="right" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" width="250px">
@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio,html,css,js,git,github,py,linux,vscode,eclipse,sql" />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,html,css,js,git,github,py,linux,windows,vscode,eclipse,sql" />
   </a>
 </p>
 
