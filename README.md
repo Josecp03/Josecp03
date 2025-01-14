@@ -77,15 +77,14 @@
     <a href="https://github.com/Josecp03/Language_Learning">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=Language_Learning&theme=tokyonight" alt="GitHub Stats" />
     </a>
-
-
-
-
-
-    
   </p>
-
 </div>
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 
 
