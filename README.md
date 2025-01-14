@@ -28,13 +28,33 @@
 </br>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio,html,css,js,git,github,py,linux,windows,vscode,eclipse,sql" />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,html,css,js,git,github,py,linux,windows,vscode,eclipse" />
   </a>
 </p>
 </br>
 
 <h2 style="font-size: 28px; font-weight: bold;">🤝 Connect With Me</h2>
 
+</br>
 <p>
 <a href="https://www.linkedin.com/in/jos%C3%A9-corrochano-pardo-7846162b6/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.instagram.com/joseecp03/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+</br>
+</br>
+
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
+</h2>
+
+</br>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img alt="Josecp03's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Josecp03&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Josecp03&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Josecp03" height="230px"/>
+</p>
+</br>
+
+<h2 style="font-size: 28px; font-weight: bold;">:open_file_folder: My Repositories </h2>
+
+
