@@ -26,11 +26,15 @@
 </h2>
 
 </br>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,androidstudio,html,css,js,git,github,py,linux,windows,vscode,eclipse,sql" />
   </a>
 </p>
 </br>
 
-<h2 style="font-size: 28px; font-weight: bold;">Connect With Me 🤝</h2>
+<h2 style="font-size: 28px; font-weight: bold;">🤝 Connect With Me</h2>
+
+<p>
+<a href="https://www.linkedin.com/in/jos%C3%A9-corrochano-pardo-7846162b6/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.instagram.com/joseecp03/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
