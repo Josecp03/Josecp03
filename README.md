@@ -28,7 +28,7 @@
 </br>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,androidstudio,html,css,js,mysql,git,github,py,linux,windows,vscode,eclipse" />
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,html,css,js,mysql,git,github,py,linux,windows,vscode,eclipse,docker,kubernetes,terraform,ansible,bash" />
   </a>
 </p>
 </br>
