@@ -57,30 +57,19 @@
 
 <h2 style="font-size: 28px; font-weight: bold;">:open_file_folder: My Repositories </h2>
 
-https://github.com/Josecp03/Vetra-FitnessApp-TFG
-
 <div>
   <p align="center">
   	<a href="https://github.com/Josecp03/Vetra-FitnessApp-TFG">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=Vetra-FitnessApp-TFG&theme=tokyonight" alt="GitHub Stats" />
     </a>
-  	<a href="https://github.com/Josecp03/1DAM">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=1DAM&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Josecp03/2DAM">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=2DAM&theme=tokyonight" alt="GitHub Stats" />
-    </a>
     <a href="https://github.com/Josecp03/Corrochano_JoseIMDbAPP">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=Corrochano_JoseIMDbAPP&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Josecp03/Proyecto_1DAM">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=Proyecto_1DAM&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/Josecp03/2DAM">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=2DAM&theme=tokyonight" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/Josecp03/CursoHTML">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=CursoHTML&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Josecp03/Language_Learning">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=Language_Learning&theme=tokyonight" alt="GitHub Stats" />
+  	<a href="https://github.com/Josecp03/1DAM">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=1DAM&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
 </div>
