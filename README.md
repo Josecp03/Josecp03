@@ -61,6 +61,9 @@
   	<a href="https://github.com/Josecp03/Vetra-FitnessApp-TFG">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=Vetra-FitnessApp-TFG&theme=tokyonight" alt="GitHub Stats" />
     </a>
+  	<a href="https://github.com/Josecp03/Proyecto-DevOps">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=Proyecto-DevOps&theme=tokyonight" alt="GitHub Stats" />
+    </a>
     <a href="https://github.com/Josecp03/Corrochano_JoseIMDbAPP">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=Corrochano_JoseIMDbAPP&theme=tokyonight" alt="GitHub Stats" />
     </a>
