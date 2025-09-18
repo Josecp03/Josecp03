@@ -57,8 +57,13 @@
 
 <h2 style="font-size: 28px; font-weight: bold;">:open_file_folder: My Repositories </h2>
 
+https://github.com/Josecp03/Vetra-FitnessApp-TFG
+
 <div>
   <p align="center">
+  	<a href="https://github.com/Josecp03/Vetra-FitnessApp-TFG">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=Vetra-FitnessApp-TFG&theme=tokyonight" alt="GitHub Stats" />
+    </a>
   	<a href="https://github.com/Josecp03/1DAM">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=1DAM&theme=tokyonight" alt="GitHub Stats" />
     </a>
