@@ -7,18 +7,23 @@
 </picture>
 
 <ul>
-  <li>🌱 I'm currently learning multi-platform application development</li>
-  <li>🤔 I use daily <code>.java</code>, <code>.xml</code> and Android Studio</li>
-  <li>💬 Talk to me about Technology, Sports, and Current Events</li>
-  <li>👯 I’m looking to gain work experience</li>
+  <li>🎓 I'm currently studying Computer Engineering while working full-time as a DevOps Engineer</li>
+  <li>☁️ I work daily with <code>Terraform</code>, <code>Kubernetes</code>, <code>Ansible</code>, and multi-cloud platforms (GCP, Azure, AWS, IBM Cloud)</li>
+  <li>🐍 I use daily <code>Python</code>, <code>Bash</code>, <code>YAML</code>, and <code>HCL</code></li>
+  <li>🚀 I specialize in Infrastructure as Code, CI/CD automation with GitHub Actions, and container orchestration</li>
+  <li>🤖 Recently completed specialization in Artificial Intelligence and Big Data</li>
+  <li>📊 I work with Big Data tools like Hadoop, Spark, Zeppelin, and Power BI</li>
+  <li>🧠 I have experience with AI/ML using NumPy, Pandas, PyTorch, TensorFlow, and Scikit-learn</li>
+  <li>👁️ I work with computer vision using OpenCV and YOLO</li>
+  <li>🤖 I have some experience programming AI for robots and drones</li>
   <li>🏋️ I lead a healthy lifestyle with lots of sports</li>
-  <li>💻 I enjoy building apps and learning about software architecture</li>
-  <li>📖 I'm passionate about continuous learning and personal development</li>
-  <li>🎨 I have a keen interest in UI/UX design and how it impacts user experience</li>
-  <li>🌍 I love exploring new cultures and learning about global tech communities</li>
-  <li>📱 I’m interested in mobile development and optimizing user experiences</li>
-  <li>🤝 I'm open to collaborating on exciting and challenging projects</li>
+  <li>💻 I enjoy automating infrastructure and building scalable cloud solutions</li>
+  <li>📖 I'm passionate about continuous learning while balancing work and studies</li>
+  <li>🌍 Based in Talavera de la Reina, Spain</li>
+  <li>🤝 I'm open to collaborating on DevOps, cloud, and AI/ML projects</li>
+  <li>🛠️ Primary cloud expertise: GCP, also working with Azure, AWS, and IBM Cloud</li>
 </ul>
+
 
 <h2 style="font-size: 28px; font-weight: bold;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25">
@@ -38,43 +43,10 @@
 </br>
 <p>
 <a href="https://www.linkedin.com/in/jos%C3%A9-corrochano-pardo-7846162b6/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com/joseecp03/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 </br>
 </br>
 
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Github Stats
-</h2>
 
-</br>
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img alt="Josecp03's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Josecp03&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-    </a>
-</p>
-</br>
-
-<h2 style="font-size: 28px; font-weight: bold;">:open_file_folder: My Repositories </h2>
-
-<div>
-  <p align="center">
-  	<a href="https://github.com/Josecp03/Vetra-FitnessApp-TFG">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=Vetra-FitnessApp-TFG&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-  	<a href="https://github.com/Josecp03/Proyecto-DevOps">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=Proyecto-DevOps&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Josecp03/Corrochano_JoseIMDbAPP">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=Corrochano_JoseIMDbAPP&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-	<a href="https://github.com/Josecp03/2DAM">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=2DAM&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-  	<a href="https://github.com/Josecp03/1DAM">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Josecp03&repo=1DAM&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
 
 
 
