@@ -9,7 +9,7 @@
 <ul>
   <li>🎓 I'm currently studying Computer Engineering while working full-time as a DevOps Engineer</li>
   <li>☁️ I work daily with <code>Terraform</code>, <code>Kubernetes</code>, <code>Ansible</code>, and multi-cloud platforms (GCP, Azure, AWS, IBM Cloud)</li>
-  <li>🐍 I use daily <code>Python</code>, <code>Bash</code>, <code>YAML</code>, and <code>HCL</code></li>
+  <li>🐍 I use daily <code>Bash</code>, <code>YAML</code>, and <code>HCL</code></li>
   <li>🚀 I specialize in Infrastructure as Code, CI/CD automation with GitHub Actions, and container orchestration</li>
   <li>🤖 Recently completed specialization in Artificial Intelligence and Big Data</li>
   <li>📊 I work with Big Data tools like Hadoop, Spark, Zeppelin, and Power BI</li>
